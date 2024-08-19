@@ -1,4 +1,4 @@
-# Hey, 👋, I'm Anushka Dhekne!
+# Hey👋, I'm Anushka Dhekne!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" height="200" />
