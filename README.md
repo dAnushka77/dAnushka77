@@ -19,12 +19,7 @@
 
 ## About Me
 
-I am a passionate Software Developer and Data Science enthusiast with a knack for problem-solving and innovation. My expertise lies in Machine Learning, Data Analytics, and Web Development. I love exploring new technologies and applying them to real-world problems.
-
-- 🌱 I’m currently learning **Generative AI & Cloud**
-- 📫 How to reach me: *anushkadhekne@gmail.com*
-
----
+I am a passionate Software Developer and Data Science enthusiast with a knack for problem-solving and innovation. My expertise lies in Machine Learning, Data Analytics, and Web Development. I love exploring new technologies and applying them to real-world problems. Having over 3 years of experience in predictive analytics, machine learning, and data-driven decision-making, I am passionate towards creating meaningful data insights from raw data to improve business decisions. Always an ‘I can’ attitude rather than a ‘can I?’.
 
 ## Skills
 
