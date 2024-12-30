@@ -81,21 +81,7 @@ I am a passionate Software Developer and Data Science enthusiast with a knack fo
 
 Feel free to explore my repositories and connect with me on LinkedIn!
 
----
 
-## Achievements
-
-- **Certifications**: 
-  - Microsoft (AI on Azure)
-  - AWS (DevOps)
-  - Google Cloud (Transformer & BERT Model, Data Analytics for BI)
-  - Udemy (Golang)
-  - IBM (Data Analysis using Python)
-  - Workato (Automation Pro I and II)
-  - DeepLearning.ai (Prompt Engineering for Developers)
-  - Oracle OCI (Gen AI Professional & OCI Foundations Associate, Cloud Data Management)
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dAnushka77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
