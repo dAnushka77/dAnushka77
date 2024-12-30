@@ -5,7 +5,7 @@
 </p>
 
 ## Connect with me:
-"""
+/*
 <p align="center">
   <a href="https://linkedin.com/in/anushka-dhekne">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
+*/
 ---
-"""
+
 ## About Me
 
 I am a passionate Software Developer and Data Science enthusiast with a knack for problem-solving and innovation. My expertise lies in Machine Learning, Data Analytics, and Web Development. I love exploring new technologies and applying them to real-world problems. Having over 3 years of experience in predictive analytics, machine learning, and data-driven decision-making, I am passionate towards creating meaningful data insights from raw data to improve business decisions. Always an ‘I can’ attitude rather than a ‘can I?’.
