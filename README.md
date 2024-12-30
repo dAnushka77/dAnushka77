@@ -1,7 +1,7 @@
-# Hey👋, I'm Anushka Dhekne!
+## Hey👋, I'm Anushka Dhekne!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="100" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="130" height="100" />
 </p>
 
 ## About Me
